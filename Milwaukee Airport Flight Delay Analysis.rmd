@@ -1,7 +1,8 @@
 ---
 title: "Milwaukee Airport Flight Delay Analysis"
 subtitle: "By Gavin Jimenez, Ethan Nguyen, Julia Woods, Jinqing Su"
-output: html_document
+output: html_document:
+keep_md: true
 ---
 
 ```{r setup, include=FALSE}
